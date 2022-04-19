@@ -1,7 +1,7 @@
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v2.0.76
 Comment: feel free to use my public pgp to send me encrypted msg
-Email: hello@j0shthegod.io
+Email: root@j0shthegod.io
 
 xsFNBGJewpoBEACsCrA8dRAfuXsJuEuTi1YI0tpLLDJob5Fh+pZhzNumcHcsNT2Q
 Wt5zkJn3G7FUHtTaHfaq9ENOPIumj5cjHNVwPOKnyEBsqA2axS39hLTBx7J9Uvl5
